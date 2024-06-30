@@ -1,1 +1,1 @@
-haishanh/yacd:master
+ghcr.io/haishanh/yacd:master
