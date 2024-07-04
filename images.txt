@@ -1,1 +1,1 @@
-ghcr.io/haishanh/yacd:master
+oldiy/chrome-novnc
