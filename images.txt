@@ -1,1 +1,1 @@
-oldiy/chrome-novnc
+aquasec/kube-bench:v0.7.3
