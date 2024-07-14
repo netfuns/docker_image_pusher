@@ -1,2 +1,1 @@
-aquasec/kube-bench:v0.6.9
-aquasec/kube-bench:v0.8.0
+onething1/wxedge:latest
