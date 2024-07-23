@@ -1,1 +1,3 @@
-ghcr.io/imagegenius/immich:latest
+joplin/server:latest
+postgres:14
+registry:2.8.3
