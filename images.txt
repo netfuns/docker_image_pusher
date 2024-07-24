@@ -1,1 +1,1 @@
-kubeoperator/metrics-server:v0.5.0
+bitnami/tomcat:10.1.26-debian-12-r2
