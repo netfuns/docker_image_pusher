@@ -1,7 +1,8 @@
-redis
-springboot
-sqlserver
-druid
-jasypt
-shardingjdbc
-mybatis
+jelastic/springboot
+paketobuildpacks/spring-boot
+sqlserver2019dev/mssql2019
+apache/druid
+mpender/jasypt
+apache/shardingsphere-proxy
+devopsmica/mybatis
+damozhiying/springboot-mybatis-demo
