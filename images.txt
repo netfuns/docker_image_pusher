@@ -1,7 +1,7 @@
 jelastic/springboot
 paketobuildpacks/spring-boot
 sqlserver2019dev/mssql2019
-apache/druid
+apache/druid:30.0.0
 mpender/jasypt
 apache/shardingsphere-proxy
 devopsmica/mybatis
