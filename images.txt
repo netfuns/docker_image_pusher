@@ -1,1 +1,1 @@
-stanhoe/aqua-warden:latest
+portainer/portainer-ce
