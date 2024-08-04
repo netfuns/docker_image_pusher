@@ -1,1 +1,1 @@
-portainer/portainer-ce
+ghcr.io/imagegenius/immich:latest
