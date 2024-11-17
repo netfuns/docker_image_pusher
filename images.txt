@@ -1,1 +1,1 @@
-glauth/glauth:latest
+docker.io/glauth/glauth:latest
