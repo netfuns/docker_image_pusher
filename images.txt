@@ -1,1 +1,1 @@
-docker.io/glauth/glauth:latest
+mysql:5.7
