@@ -1,1 +1,1 @@
-linkease/webvirtcloud:latest
+makedie/fnos
