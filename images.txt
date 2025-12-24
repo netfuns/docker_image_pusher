@@ -1,1 +1,1 @@
-makedie/fnos
+easytier/easytier:latest
