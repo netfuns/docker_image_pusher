@@ -1,1 +1,1 @@
-easytier/easytier:latest
+ionewu/owjdxb_a64:latest
