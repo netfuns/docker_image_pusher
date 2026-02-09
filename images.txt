@@ -1,1 +1,1 @@
-ionewu/owjdxb_a64:latest
+cloudnas/clouddrive2:latest
