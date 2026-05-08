@@ -1,1 +1,1 @@
-cloudnas/clouddrive2:latest
+gangz1o/glash:latest
