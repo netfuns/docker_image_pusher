@@ -1,1 +1,2 @@
-gangz1o/glash:latest
+ghcr.io/mhsanaei/3x-ui:latest
+easytier/easytier:latest
