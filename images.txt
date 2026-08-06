@@ -1,1 +1,1 @@
-lonelyman0108/cfst-ddns:latest-bundled
+lonelyman0108/cfst-ddns:latest
