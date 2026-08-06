@@ -1,1 +1,1 @@
-kwxos/bestip:latest
+lonelyman0108/cfst-ddns:latest-bundled
