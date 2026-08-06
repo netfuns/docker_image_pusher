@@ -1,1 +1,1 @@
-l429609201/cloudflare-optimizer:latest
+kwxos/bestip:latest
