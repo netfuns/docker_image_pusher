@@ -1,2 +1,1 @@
-ghcr.io/mhsanaei/3x-ui:latest
-easytier/easytier:latest
+l429609201/cloudflare-optimizer:latest
