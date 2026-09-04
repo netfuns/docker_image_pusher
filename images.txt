@@ -1,1 +1,2 @@
-lonelyman0108/cfst-ddns:latest
+haishanh/yacd
+dreamacro/clash
